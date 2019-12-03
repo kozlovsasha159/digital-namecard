@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Oleksandr;Kozlov;;;
+FN: Oleksandr  Kozlov 
+ORG:MinJust;
+TITLE:Governmental expert\Directorate for Strategic Planning and European Integration, Ministry of Justice
+EMAIL;type=INTERNET;type=WORK;type=pref:kozlov.olex@gmail.com
+TEL;type=WORK;type=VOICE:+38 050 4069131
+item1.ADR;type=WORK;type=pref:;;10 Rylskyi lane, Kyiv;;;02000;Ukraine
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:minjust.gov.ua/other/direktoraty/dyrektorat_strateg_plan
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
